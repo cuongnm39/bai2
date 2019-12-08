@@ -1,8 +1,8 @@
 # Demo hệ thống Microservice
 
-Ngo Manh Cuong - ngomanhcuong@vnpt.vn
-Duong Thanh Tu - duongthanhtu@vnpt.vn
-Le Van Chi - chilv@vnpt.vn
+Ngo Manh Cuong - ngomanhcuong@vnpt.vn\
+Duong Thanh Tu - duongthanhtu@vnpt.vn\
+Le Van Chi - chilv@vnpt.vn\
 
 Hệ thống sẽ gồm có các container như sau:
 1. Nginx đóng vai trò reverse proxy, host: api_gateway
