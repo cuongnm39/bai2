@@ -1,5 +1,8 @@
 # Demo hệ thống Microservice
 
+Ngo Manh Cuong - ngomanhcuong@vnpt.vn
+Duong Thanh Tu - duongthanhtu@vnpt.vn
+
 Hệ thống sẽ gồm có các container như sau:
 1. Nginx đóng vai trò reverse proxy, host: api_gateway
 2. Node.js REST, host api_customer, phục vụ ở cổng 8000, kết nối vào CSDL Mongo DB
